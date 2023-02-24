@@ -1,8 +1,8 @@
-# Beer Swap Contracts
+## Beer Swap Contracts
 
 This repo contains all the contracts used in  Beer Swap. It is divided in independent projects where each of them contains its smart contracts, test environment and unique config files.
 
-## Existing projects
+### Existing projects
 
 | Project name                                                          | Description                                                                                                                | Solidity version(s)      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
@@ -10,7 +10,7 @@ This repo contains all the contracts used in  Beer Swap. It is divided in indepe
 | [BRT Stake](./projects/brt-stake)                                     | BRT Stake ("Pools") contract that allows auto-percentage montly for BRT tokens.                                            | 0.5.0                    |
 
 
-## Create a new project
+### Create a new project
 
 1 - Create a new folder inside `projects` <br/>
 2 - Run `yarn init`
