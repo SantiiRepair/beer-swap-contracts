@@ -6,8 +6,8 @@ This repo contains all the contracts used in  Beer Swap. It is divided in indepe
 
 | Project name                                                          | Description                                                                                                                | Solidity version(s)      |
 | --------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------- | ------------------------ |
-| [BRT Token](./projects/brt-token)                                     | Created with @openzepellin library, it combines BEP20 interface and transfers to be used.                                  | 0.5.16 / 0.6.6 / 0.8.4   |
-| [BRT Stake](./projects/brt-stake)                                     | BRT Stake ("Pools") contract that allows auto-percentage montly for BRT tokens.                                            | 0.5.0                    |
+| [BRT Token](./contracts/projects/brt-token)                                     | Created with @openzepellin library, it combines BEP20 interface and transfers to be used.                                  | 0.5.16 / 0.6.6 / 0.8.4   |
+| [BRT Stake](./contracts/projects/brt-stake)                                     | BRT Stake ("Pools") contract that allows auto-percentage montly for BRT tokens.                                            | 0.5.0                    |
 
 
 ### Create a new project
