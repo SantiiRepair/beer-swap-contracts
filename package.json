@@ -4,7 +4,7 @@
   "description": "Beer Swap Contracts",
   "private": true,
   "workspaces": [
-    "projects/**"
+    "contracts/projects/**"
   ],
   "repository": "https://github.com/SantiiRepair/icz-dex/contracts",
   "author": "Santiago Ramirez",
